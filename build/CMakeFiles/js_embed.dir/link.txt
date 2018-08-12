@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/js_embed.dir/home/yys/workdisk/workdisk3/protobuf-3.5.1/src/google/protobuf/compiler/js/embed.cc.o  -o js_embed -rdynamic 
